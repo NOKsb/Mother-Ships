@@ -1,5 +1,5 @@
 return model =
-  name: 'Cyclop'
+  name: 'Cyclops'
   level: 7
   model: 3
   size: 4.3
