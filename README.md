@@ -1,9 +1,9 @@
 # Board
 | **Click To See Image** |
 | - |
-| [Black Keselios](https://github.com/NOKsb/Mother-Ships#black-keselios) |
-| [Cyclops](https://github.com/NOKsb/Mother-Ships#cyclops) |
-| [Glorius Lotulodon](https://github.com/NOKsb/Mother-Ships#glorius-lotulodon) |
+| [Black Keselios](https://github.com/NOKsb/Mother-Ships#black-keselios---go-to-board) |
+| [Cyclops](https://github.com/NOKsb/Mother-Ships#cyclops---go-to-board) |
+| [Glorius Lotulodon](https://github.com/NOKsb/Mother-Ships#glorius-lotulodon---go-to-board) |
 
 # Black Keselios - [Go to board](https://github.com/NOKsb/Mother-Ships#board)
 
