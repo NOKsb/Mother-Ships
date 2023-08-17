@@ -1,5 +1,5 @@
 # Board
-| **Click To See Image** |
+| **Click To See Picture** |
 | - |
 | [Black Keselios](https://github.com/NOKsb/Mother-Ships#black-keselios---go-to-board) |
 | [Cyclops](https://github.com/NOKsb/Mother-Ships#cyclops---go-to-board) |
