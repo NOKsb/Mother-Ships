@@ -3,7 +3,7 @@
 # Black Keselios - [Go to the pictures board](https://github.com/NOKsb/Mother-Ships#pictures-board)
 ### [Get ship's code 🔽](https://github.com/NOKsb/Mother-Ships/blob/main/Black%20Keselios%2C%20The%20EOT%20Crusher)
 <div align="center">
-    <a><img src="https://media.discordapp.net/attachments/753172217822576724/1154069105318559755/untitled.png" width="1000" alt="Megalodon-s-dueling-code" /></a>
+    <a><img src="https://media.discordapp.net/attachments/327515470993293312/1154069763211935888/untitled.png" width="1000" alt="Megalodon-s-dueling-code" /></a>
 </div>
 
 # Cyclops - [Go to the pictures board](https://github.com/NOKsb/Mother-Ships#pictures-board)
