@@ -1,7 +1,7 @@
 return model =
   name: 'Cyclops'
   level: 7
-  model: 2
+  model: 3
   size: 4.3
   specs:
     shield:
