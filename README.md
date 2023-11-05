@@ -9,7 +9,7 @@
 # Cyclops - [Go to the pictures board](https://github.com/NOKsb/Mother-Ships#pictures-board)
 ### [Get ship's code 🔽](https://github.com/NOKsb/Mother-Ships/blob/main/Cyclops)
 <div align="center">
-    <a><img src="https://media.discordapp.net/attachments/778662702662549537/1081504844143132722/starblast-1677921232149.png" width="400" alt="Megalodon-s-dueling-code" /><img src="https://media.discordapp.net/attachments/778662702662549537/1081504844382220349/starblast-1677921230804.png" width="400" alt="Megalodon-s-dueling-code" /></a>
+    <a><img src="https://cdn.discordapp.com/attachments/1170829423092695050/1170830496213778584/starblast-1699218086300.png" width="400" alt="Megalodon-s-dueling-code" /><img src="https://cdn.discordapp.com/attachments/1170829423092695050/1170830496876470272/starblast-1699218111128.png" width="400" alt="Megalodon-s-dueling-code" /></a>
 </div>
 
 # Glorius Lotulodon - [Go to the pictures board](https://github.com/NOKsb/Mother-Ships#pictures-board)
